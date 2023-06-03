@@ -1,0 +1,9 @@
+Contribution Guide for GitHub:
+
+Find an Open Source Project: Start by exploring open-source projects on GitHub. Look for projects that align with your interests and skills. You can search for projects by topic, language, or organization.
+
+Fork the Repository: Once you find a project you want to contribute to, fork the repository. This creates a copy of the project in your GitHub account.
+
+Clone the Repository: Clone the forked repository to your local machine using the git clone command. This creates a local copy of the project on your computer.
+
+Create a New Branch: Before making any changes, create a new branch for your contributions. Branches isolate your changes from the main codebase, making it easier to manage and review your modifications.
